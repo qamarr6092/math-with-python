@@ -6,3 +6,5 @@ To view or download notebook :
       https://nbviewer.org/github/qamarr6092/math-with-python/blob/main/Linear%20Algebra/linear_algebra.ipynb
 2. Statistics :
        https://nbviewer.org/github/qamarr6092/math-with-python/blob/main/Statistics/statistics.ipynb
+3. Calculus :
+      https://nbviewer.org/github/qamarr6092/math-with-python/blob/main/Calculus/calculus.ipynb
